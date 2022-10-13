@@ -141,7 +141,7 @@
 
           <p class="text-lg">
             We setup everything required to get you started selling online and
-            across google and partner platforms. We will intergrate Analytics
+            across google and partner platforms.
           </p>
 
           <div

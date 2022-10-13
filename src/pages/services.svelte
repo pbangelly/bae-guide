@@ -97,19 +97,19 @@
         <div class="text-gray-500 space-y-6">
           <div class="w-full h-full py-2 text-xl">
             <ul class="">
-              <li>🧐 Market Research and Planning</li>
-              <li>👩‍💻 Domain and SSL Setup</li>
-              <li>📧 Business Email</li>
-              <li>👩‍🎨 Website Designs</li>
-              <li>⚙️ Website setup</li>
-              <li>📝 Website copy</li>
+              <li>Market Research and Planning</li>
+              <li>Domain and SSL Setup</li>
+              <li>Business Email</li>
+              <li>Website Designs</li>
+              <li>Website setup</li>
+              <li>Website copy</li>
               <li>Website product descriptions</li>
               <li>Product editing and design</li>
               <li>Page content</li>
               <li>SEO Optimized</li>
-              <div class="text-indigo-500 uppercase hover:underline py-5">
+              <!-- <div class="text-indigo-500 uppercase hover:underline py-5">
                 See full stack
-              </div>
+              </div> -->
               <!-- <li>QR code that links to website</li> -->
               <!-- <li>Email Auto Responders</li>
                     <li>Data Analytics setup</li>
@@ -144,8 +144,7 @@
             <div
               class="bg-black block text-center inline-flex items-center justify-center"
             >
-              <a
-                href="https://docs.google.com/forms/d/e/1FAIpQLSfqSQ0aNeJ5-vkTyffDlip1aOe6w9x-YuxmL9FZO04rxBL07w/viewform?usp=sf_link"
+              <a href="https://buy.stripe.com/00g6qEfL22Mo0BGbIP"
                 >Get Started Now</a
               >
             </div>
