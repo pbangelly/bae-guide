@@ -1,5 +1,5 @@
 <script>
-  import MainImage from '../../assets/images/mockup.png';
+  import MainImage from "../../assets/images/mockup.png";
 </script>
 
 <!-- Feature    section with screenshot -->
@@ -16,10 +16,11 @@
       <p
         class="mt-2 text-3xl font-extrabold text-gray-900 tracking-tight sm:text-4xl"
       >
-        No Tech Experince? <br/> No problem.
+        No Tech Experince? <br /> No problem.
       </p>
       <p class="mt-5 max-w-prose mx-auto text-xl text-gray-500">
-        We build business systems online from start to finish using powerful modern tech tools that aligns with your customers and business goals.
+        We build business systems online from start to finish using powerful
+        modern tech tools that aligns with your customers and business goals.
       </p>
     </div>
     <div class="mt-12 -mb-10 sm:-mb-24 lg:-mb-20">

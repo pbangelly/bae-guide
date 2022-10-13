@@ -1,5 +1,5 @@
 <script>
-  import Logo from '../../assets/images/logo.png'
+  import Logo from "../../assets/images/logo.png";
 </script>
 
 <footer class="bg-black" aria-labelledby="footerHeading">
@@ -9,16 +9,12 @@
   >
     <div class="grid grid-row">
       <div class="space-y-8 xl:col-span-1 justify-self-center">
-        <img
-          class="h-10"
-          src={Logo}
-          alt="Hack The Ratio"
-        />
+        <img class="h-10" src={Logo} alt="Hack The Ratio" />
         <!-- <p class="text-gray-300 text-xs">
           Making the world a better place through constructing powerful
           hierarchies.
         </p> -->
-<!-- 
+        <!-- 
         <div class="flex space-x-6">
           <a href="#" class="text-gray-400 hover:text-gray-500">
             <span class="sr-only">Facebook</span>

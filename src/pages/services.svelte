@@ -1,34 +1,73 @@
 <script>
-    import Services from "../../assets/images/services.png"
-    // import Icon from "../../assets/images/icons/shop-bag.png"
+  import Services from "../../assets/images/services.png";
+  // import Icon from "../../assets/images/icons/shop-bag.png"
 </script>
 
 <!-- This example requires Tailwind CSS v2.0+ -->
 <div class="relative bg-white py-16 sm:py-24">
-    <div class="lg:mx-auto lg:max-w-7xl lg:px-8 lg:grid lg:grid-cols-2 lg:gap-24 lg:items-start">
-      <div class="relative sm:py-16 lg:py-0">
-        <div aria-hidden="true" class="hidden sm:block lg:absolute lg:inset-y-0 lg:right-0 lg:w-screen">
-          <div class="absolute inset-y-0 right-1/2 w-full bg-gray-50 rounded-r-3xl lg:right-72"></div>
-          <svg class="absolute top-8 left-1/2 -ml-3 lg:-right-8 lg:left-auto lg:top-12" width="404" height="392" fill="none" viewBox="0 0 404 392">
-            <defs>
-              <pattern id="02f20b47-fd69-4224-a62a-4c9de5c763f7" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
-                <rect x="0" y="0" width="4" height="4" class="text-gray-200" fill="currentColor" />
-              </pattern>
-            </defs>
-            <rect width="404" height="392" fill="url(#02f20b47-fd69-4224-a62a-4c9de5c763f7)" />
-          </svg>
-        </div>
-        <div class="relative mx-auto max-w-md px-4 sm:max-w-3xl sm:px-6 lg:px-0 lg:max-w-none lg:py-20">
-          <!-- Testimonial card-->
-          <div class="relative pt-64 pb-10 rounded-2xl shadow-xl overflow-hidden">
-            <img class="absolute inset-0 h-full w-full object-cover" src={Services} alt="man in shopping cart">
-            <div class="absolute inset-0 bg-indigo-100 mix-blend-multiply"></div>
-            <div class="absolute inset-0 bg-gradient-to-t from-indigo-600 via-indigo-600 opacity-90"></div>
-            <div class="relative px-8">
-              <!-- <div>
+  <div
+    class="lg:mx-auto lg:max-w-7xl lg:px-8 lg:grid lg:grid-cols-2 lg:gap-24 lg:items-start"
+  >
+    <div class="relative sm:py-16 lg:py-0">
+      <div
+        aria-hidden="true"
+        class="hidden sm:block lg:absolute lg:inset-y-0 lg:right-0 lg:w-screen"
+      >
+        <div
+          class="absolute inset-y-0 right-1/2 w-full bg-gray-50 rounded-r-3xl lg:right-72"
+        />
+        <svg
+          class="absolute top-8 left-1/2 -ml-3 lg:-right-8 lg:left-auto lg:top-12"
+          width="404"
+          height="392"
+          fill="none"
+          viewBox="0 0 404 392"
+        >
+          <defs>
+            <pattern
+              id="02f20b47-fd69-4224-a62a-4c9de5c763f7"
+              x="0"
+              y="0"
+              width="20"
+              height="20"
+              patternUnits="userSpaceOnUse"
+            >
+              <rect
+                x="0"
+                y="0"
+                width="4"
+                height="4"
+                class="text-gray-200"
+                fill="currentColor"
+              />
+            </pattern>
+          </defs>
+          <rect
+            width="404"
+            height="392"
+            fill="url(#02f20b47-fd69-4224-a62a-4c9de5c763f7)"
+          />
+        </svg>
+      </div>
+      <div
+        class="relative mx-auto max-w-md px-4 sm:max-w-3xl sm:px-6 lg:px-0 lg:max-w-none lg:py-20"
+      >
+        <!-- Testimonial card-->
+        <div class="relative pt-64 pb-10 rounded-2xl shadow-xl overflow-hidden">
+          <img
+            class="absolute inset-0 h-full w-full object-cover"
+            src={Services}
+            alt="man in shopping cart"
+          />
+          <div class="absolute inset-0 bg-indigo-100 mix-blend-multiply" />
+          <div
+            class="absolute inset-0 bg-gradient-to-t from-indigo-600 via-indigo-600 opacity-90"
+          />
+          <div class="relative px-8">
+            <!-- <div>
                 <img class="h-12" src="https://tailwindui.com/img/logos/workcation.svg?color=white" alt="Workcation">
               </div> -->
-              <!-- <blockquote class="mt-8">
+            <!-- <blockquote class="mt-8">
                 <div class="relative text-lg font-medium text-white md:flex-grow">
                   <svg class="absolute top-0 left-0 transform -translate-x-3 -translate-y-2 h-8 w-8 text-indigo-400" fill="currentColor" viewBox="0 0 32 32" aria-hidden="true">
                     <path d="M9.352 4C4.456 7.456 1 13.12 1 19.36c0 5.088 3.072 8.064 6.624 8.064 3.36 0 5.856-2.688 5.856-5.856 0-3.168-2.208-5.472-5.088-5.472-.576 0-1.344.096-1.536.192.48-3.264 3.552-7.104 6.624-9.024L9.352 4zm16.512 0c-4.8 3.456-8.256 9.12-8.256 15.36 0 5.088 3.072 8.064 6.624 8.064 3.264 0 5.856-2.688 5.856-5.856 0-3.168-2.304-5.472-5.184-5.472-.576 0-1.248.096-1.44.192.48-3.264 3.456-7.104 6.528-9.024L25.864 4z" />
@@ -42,33 +81,37 @@
                   <p class="text-base font-semibold text-indigo-200">Sarah Williams, CEO at Workcation</p>
                 </footer>
               </blockquote> -->
-            </div>
           </div>
         </div>
       </div>
-  
-      <div class="relative mx-auto max-w-md px-4 sm:max-w-3xl sm:px-6 lg:px-0">
-        <!-- Content area -->
-        <div>
-          <h2 class="py-5 text-3xl text-gray-900 font-extrabold tracking-tight sm:text-4xl">
-            Service Stack Solutions
-          </h2>
-          <div class="text-gray-500 space-y-6">
-            <div class="w-full h-full py-2 text-xl">
-                <ul class="">
-                    <li>🧐 Market Research and Planning</li>
-                    <li>👩‍💻 Domain and SSL Setup</li>
-                    <li>📧 Business Email</li>
-                    <li>👩‍🎨 Website Designs</li>
-                    <li>⚙️ Website setup</li>
-                    <li>📝 Website copy</li>
-                    <li>Website product descriptions</li>
-                    <li>Product editing and design</li>
-                    <li>Page content</li>
-                    <li>SEO Optimized</li>
-                    <div class="text-indigo-500 uppercase hover:underline py-5"> See full stack</div>
-                    <!-- <li>QR code that links to website</li> -->
-                    <!-- <li>Email Auto Responders</li>
+    </div>
+
+    <div class="relative mx-auto max-w-md px-4 sm:max-w-3xl sm:px-6 lg:px-0">
+      <!-- Content area -->
+      <div>
+        <h2
+          class="py-5 text-3xl text-gray-900 font-extrabold tracking-tight sm:text-4xl"
+        >
+          Service Stack Solutions
+        </h2>
+        <div class="text-gray-500 space-y-6">
+          <div class="w-full h-full py-2 text-xl">
+            <ul class="">
+              <li>🧐 Market Research and Planning</li>
+              <li>👩‍💻 Domain and SSL Setup</li>
+              <li>📧 Business Email</li>
+              <li>👩‍🎨 Website Designs</li>
+              <li>⚙️ Website setup</li>
+              <li>📝 Website copy</li>
+              <li>Website product descriptions</li>
+              <li>Product editing and design</li>
+              <li>Page content</li>
+              <li>SEO Optimized</li>
+              <div class="text-indigo-500 uppercase hover:underline py-5">
+                See full stack
+              </div>
+              <!-- <li>QR code that links to website</li> -->
+              <!-- <li>Email Auto Responders</li>
                     <li>Data Analytics setup</li>
                     <li>Social Media Integration</li>
                     <li>30 Days of Content for social media</li>
@@ -87,27 +130,39 @@
                     <li>Setup TikTok Catalog</li>
                     <li>Setup TikTok Analytics</li>
                     <li>Setup TikTok Campagin</li> -->
-                </ul>
-            </div>
-            
-            <p class="text-lg">
-                We setup everything required to get you started selling online and across google and partner platforms. We will intergrate Analytics 
-            </p>
+            </ul>
+          </div>
 
-                            
-            <div class="grid grid-cols-2 gap-5 text-white block text-center inline-flex items-center justify-center">
-                <div class="bg-black block text-center inline-flex items-center justify-center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfqSQ0aNeJ5-vkTyffDlip1aOe6w9x-YuxmL9FZO04rxBL07w/viewform?usp=sf_link">Get Started Now</a></div>
-                <div class="bg-black block text-center inline-flex items-center justify-center"><a href="/">Return Home</a></div>
+          <p class="text-lg">
+            We setup everything required to get you started selling online and
+            across google and partner platforms. We will intergrate Analytics
+          </p>
+
+          <div
+            class="grid grid-cols-2 gap-5 text-white block text-center inline-flex items-center justify-center"
+          >
+            <div
+              class="bg-black block text-center inline-flex items-center justify-center"
+            >
+              <a
+                href="https://docs.google.com/forms/d/e/1FAIpQLSfqSQ0aNeJ5-vkTyffDlip1aOe6w9x-YuxmL9FZO04rxBL07w/viewform?usp=sf_link"
+                >Get Started Now</a
+              >
             </div>
-            <!-- <p class="text-base leading-7">
+            <div
+              class="bg-black block text-center inline-flex items-center justify-center"
+            >
+              <a href="/">Return Home</a>
+            </div>
+          </div>
+          <!-- <p class="text-base leading-7">
               Sollicitudin tristique eros erat odio sed vitae, consequat turpis elementum. Lorem nibh vel, eget pretium arcu vitae. Eros eu viverra donec ut volutpat donec laoreet quam urna. Sollicitudin tristique eros erat odio sed vitae, consequat turpis elementum. Lorem nibh vel, eget pretium arcu vitae. Eros eu viverra donec ut volutpat donec laoreet quam urna.
             </p>
             <p class="text-base leading-7">
               Rhoncus nisl, libero egestas diam fermentum dui. At quis tincidunt vel ultricies. Vulputate aliquet velit faucibus semper. Pellentesque in venenatis vestibulum consectetur nibh id. In id ut tempus egestas. Enim sit aliquam nec, a. Morbi enim fermentum lacus in. Viverra.
             </p> -->
-          </div>
         </div>
       </div>
     </div>
   </div>
-  
+</div>

@@ -9,7 +9,7 @@
 
   // default close on all screens - only display icon
   function handleClickToggle(_event) {
-    showMenu = ! showMenu;
+    showMenu = !showMenu;
   }
 
   function handleClickOpen(_event) {
@@ -18,12 +18,6 @@
     showMenu = true;
   }
 </script>
-
-<style>
-  #nav-menu-content {
-    height: 100vh;
-  }
-</style>
 
 <header class="relative">
   <div class="bg-black pt-6 pb-6">
@@ -92,7 +86,11 @@
         <!-- <a href="/login" class="text-base font-medium text-white hover:text-gray-300">
           Log in
         </a> -->
-        <Link href='https://hacktheratio-memebers.netlify.app/#/signin' class="text-base font-medium text-white hover:text-gray-300" outbound>Login</Link>
+        <Link
+          href="https://hacktheratio-memebers.netlify.app/#/signin"
+          class="text-base font-medium text-white hover:text-gray-300"
+          outbound>Login</Link
+        >
         <!-- <a
           id="nav-form-button"
           href="/signup"
@@ -104,12 +102,15 @@
         >
           Signup
         </a> -->
-        <Link href='https://hacktheratio-memebers.netlify.app/'
-        class="inline-flex items-center px-2 py-2 shadow border border-transparent-50 
+        <Link
+          href="https://hacktheratio-memebers.netlify.app/"
+          class="inline-flex items-center px-2 py-2 shadow border border-transparent-50 
         text-base text-white font-medium 
         rounded-md bg-gradient-to-r from-teal-500 to-teal-800 
         hover:bg-teal-400
-        focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-teal-400 focus:ring-offset-teal-100" outbound>Sign up</Link>
+        focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-teal-400 focus:ring-offset-teal-100"
+          outbound>Sign up</Link
+        >
       </div>
     </nav>
   </div>
@@ -129,7 +130,9 @@
 
   <div
     id="nav-menu"
-    class="absolute top-0 inset-x-0 p-2 transition transform origin-top md:hidden {showMenu ? 'duration-150 ease-out opacity-100 scale-100 visible' : 'duration-100 ease-in opacity-0 scale-95 invisible'}"
+    class="absolute top-0 inset-x-0 p-2 transition transform origin-top md:hidden {showMenu
+      ? 'duration-150 ease-out opacity-100 scale-100 visible'
+      : 'duration-100 ease-in opacity-0 scale-95 invisible'}"
   >
     <div
       id="nav-menu-content"
@@ -222,8 +225,9 @@
         <!-- login -->
         <div id="login-moblink" role="none" class="mt-6 px-5">
           <p class="text-center text-base font-medium text-yellow-500">
-            Existing customer? <a href="https://hacktheratio-memebers.netlify.app/#/signin" class="text-white hover:underline"
-              >Login</a
+            Existing customer? <a
+              href="https://hacktheratio-memebers.netlify.app/#/signin"
+              class="text-white hover:underline">Login</a
             >
           </p>
         </div>
@@ -231,3 +235,9 @@
     </div>
   </div>
 </header>
+
+<style>
+  #nav-menu-content {
+    height: 100vh;
+  }
+</style>
