@@ -2,14 +2,18 @@
   import Logo from "../../assets/images/logo.png";
 </script>
 
-<footer class="bg-black" aria-labelledby="footerHeading">
+<footer class="bg-white" aria-labelledby="footerHeading">
   <h2 id="footerHeading" class="sr-only">Footer</h2>
   <div
     class="max-w-md mx-auto text-center pt-12 px-4 sm:max-w-7xl sm:px-6 lg:pt-16 lg:px-8"
   >
     <div class="grid grid-row">
       <div class="space-y-8 xl:col-span-1 justify-self-center">
-        <img class="h-10" src={Logo} alt="Hack The Ratio" />
+        <img
+          class="h-13"
+          src={Logo}
+          alt="Hack The Ratio Business Systems Services"
+        />
         <!-- <p class="text-gray-300 text-xs">
           Making the world a better place through constructing powerful
           hierarchies.
@@ -68,7 +72,7 @@
       </div>
     </div>
     <div class="py-4">
-      <p class="text-xs text-gray-300 text-sm xl:text-center">
+      <p class="text-xs text-gray-700 text-sm xl:text-center">
         &copy; 2021 Hack The Ratio.org, All rights reserved.
       </p>
     </div>
