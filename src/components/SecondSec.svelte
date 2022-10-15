@@ -9,16 +9,16 @@
   >
     <div>
       <!-- <h2
-        class="text-base font-semibold tracking-wider text-teal-500 uppercase"
+        class="text-base font-semibold tracking-wider text-red-500 uppercase"
       >
         Serverless
       </h2> -->
       <p
-        class="mt-2 text-3xl font-extrabold text-gray-900 tracking-tight sm:text-4xl"
+        class="mt-2 font-extrabold text-gray-900 tracking-tight text-5xl md:text-7xl"
       >
         No Tech Experince? <br /> No problem.
       </p>
-      <p class="mt-5 max-w-prose mx-auto text-xl text-gray-500">
+      <p class="mt-5 max-w-prose mx-auto text-xl md:text-4xl text-gray-500">
         We build business systems online from start to finish using powerful
         modern tech tools that aligns with your customers and business goals.
       </p>

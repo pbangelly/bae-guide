@@ -26,11 +26,11 @@
               Award winning support
             </h2> -->
       <p
-        class="mt-2 text-white text-3xl font-extrabold tracking-tight sm:text-4xl"
+        class="mt-2 text-white text-4xl font-extrabold tracking-tight md:text-6xl"
       >
         We’re here to help
       </p>
-      <p class="mt-3 text-lg text-gray-300">
+      <p class="mt-3 text-2xl md:text-3xl text-gray-300">
         We started this mission with the goal to empower people to use powerful
         systems that will take their business to the next level. We build
         business systems online from start to finish. We specialize in
@@ -39,8 +39,8 @@
       <div class="mt-8">
         <div class="inline-flex rounded-md shadow">
           <a
-            href="https://www.facebook.com/messages/t/108844254686925"
-            class="bg-teal-600 inline-flex items-center justify-center px-5 py-3 border border-transparent font-base rounded-md text-white bg-white hover:bg-white hover:text-black visited:text-red-500"
+            href=""
+            class="bg-red-600 inline-flex items-center justify-center px-5 py-3 border border-transparent font-base rounded-md text-white bg-white hover:bg-white hover:text-black visited:text-red-500"
           >
             Reach Out
             <!-- Heroicon name: solid/external-link -->

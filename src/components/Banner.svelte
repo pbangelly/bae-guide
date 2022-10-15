@@ -11,7 +11,7 @@
       >
         <div class="lg:py-24">
           <!-- <a href="/about" class="inline-flex items-center text-white bg-black rounded-full p-1 pr-2 sm:text-base lg:text-sm xl:text-base hover:text-gray-200">
-<span class="px-3 py-0.5 text-white text-xs font-semibold leading-5 uppercase tracking-wide bg-gradient-to-r from-teal-400 to-teal-800 rounded-full"
+<span class="px-3 py-0.5 text-white text-xs font-semibold leading-5 uppercase tracking-wide bg-gradient-to-r from-red-400 to-red-800 rounded-full"
 >Want to learn more? </span>
 <span class="ml-4 text-sm">Visit our blog </span> -->
 
@@ -29,29 +29,24 @@
   </svg>
 </a> -->
           <h1
-            class="mt-4 text-6xl tracking-tight font-extrabold text-white sm:mt-5 md:text-7xl lg:mt-6 xl:text-6xl"
+            class="mt-4 text-7xl md:text-8xl tracking-tight font-extrabold text-white sm:mt-5 lg:mt-6"
           >
             <span class="block">Building The Road</span>
             <span
-              class="bg-clip-text text-transparent bg-gradient-to-r from-teal-400 to-teal-800 block"
+              class=" bg-clip-text text-transparent bg-gradient-to-r from-red-400 to-red-800 block"
               >You need to get ahead</span
             >
           </h1>
-          <p
-            class="mt-5 text-xl text-gray-300 sm:mt-5 sm:text-xl lg:text-lg xl:text-xl"
-          >
+          <p class="mt-5 text-xl md:text-2xl text-gray-300 sm:mt-5">
             Hack The Ratio's is a Business Development Service Agency. We build
             business systems online from start to finish using powerful modern
             tech tools that aligns with your customers and business goals. We
             setup everything required to get you started selling online across
             the globe.
           </p>
-          <form
-            method="get"
-            action="https://www.facebook.com/messages/t/108844254686925"
-          >
+          <form method="get" action="">
             <button
-              class="block w-auto mt-10 py-3 px-4 rounded-md shadow bg-gradient-to-r from-teal-400 to-teal-800 text-white font-medium hover:from-teal-500 hover:to-teal-800 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-teal-400 focus:ring-offset-teal-100"
+              class="block text-xl w-auto mt-10 py-4 px-5 rounded-md shadow bg-red-600 text-white font-medium hover:from-red-500 hover:to-red-800 focus:outline-none focus:ring-1 focus:ring-offset-2 focus:ring-red-400 focus:ring-offset-red-100"
               type="submit">Reach Out</button
             >
           </form>
@@ -72,7 +67,7 @@
 <button
   id="bottom-form"
   type="submit"
-  class="block w-full py-3 px-4 rounded-md shadow bg-gradient-to-r from-teal-400 to-teal-800 text-white font-medium hover:from-teal-600 hover:to-teal-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-teal-400 focus:ring-offset-teal-100"
+  class="block w-full py-3 px-4 rounded-md shadow bg-gradient-to-r from-red-400 to-red-800 text-white font-medium hover:from-red-600 hover:to-red-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-400 focus:ring-offset-red-100"
   >Subscribe
   </button>
     </div>

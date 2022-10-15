@@ -96,9 +96,9 @@
           href="/signup"
           class="inline-flex items-center px-2 py-2 shadow border border-transparent-50 
             text-base text-white font-medium 
-            rounded-md bg-gradient-to-r from-teal-500 to-teal-800 
-            hover:bg-teal-400
-            focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-teal-400 focus:ring-offset-teal-100"
+            rounded-md bg-gradient-to-r from-red-500 to-red-800 
+            hover:bg-red-400
+            focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-400 focus:ring-offset-red-100"
         >
           Signup
         </a> -->
@@ -106,9 +106,9 @@
           href="https://hacktheratio-memebers.netlify.app/"
           class="inline-flex items-center px-2 py-2 shadow border border-transparent-50 
         text-base text-white font-medium 
-        rounded-md bg-gradient-to-r from-teal-500 to-teal-800 
-        hover:bg-teal-400
-        focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-teal-400 focus:ring-offset-teal-100"
+        rounded-md bg-gradient-to-r from-red-500 to-red-800 
+        hover:bg-red-400
+        focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-400 focus:ring-offset-red-100"
           outbound>Sign up</Link
         >
       </div>
@@ -215,10 +215,10 @@
         <div id="header-trail" role="none" class="mt-6 px-5">
           <a
             href="https://hacktheratio-memebers.netlify.app"
-            class="block w-full py-3 px-4 rounded-md shadow bg-gradient-to-r from-teal-400 to-teal-800 
+            class="block w-full py-3 px-4 rounded-md shadow bg-gradient-to-r from-red-400 to-red-800 
               text-white font-medium 
-              hover:from-teal-600 hover:to-teal-700 
-              focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-teal-400 focus:ring-offset-teal-100"
+              hover:from-red-600 hover:to-red-700 
+              focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-400 focus:ring-offset-red-100"
             >Signup</a
           >
         </div>
