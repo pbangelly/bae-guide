@@ -15,7 +15,7 @@
     <p
       class="mt-2 text-5xl font-extrabold text-gray-900 tracking-tight md:text-7xl"
     >
-      Everything you need to put your business on the web
+      Everything you need to put your business on the web.
     </p>
     <p class="mt-5 max-w-prose mx-auto text-2xl md:text-3xl text-gray-500">
       We offer an impressive selection of professional consulting services that

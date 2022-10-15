@@ -4,7 +4,7 @@
 </script>
 
 <!-- This example requires Tailwind CSS v2.0+ -->
-<div class="relative bg-white py-16 sm:py-24">
+<div class="relative bg-white py-16 sm:py-14">
   <div
     class="lg:mx-auto lg:max-w-7xl lg:px-8 lg:grid lg:grid-cols-2 lg:gap-24 lg:items-start"
   >
@@ -88,12 +88,12 @@
       <!-- Content area -->
       <div>
         <h2
-          class="py-5 text-3xl text-gray-900 font-extrabold tracking-tight sm:text-4xl"
+          class="py-5 text-4xl md:text-7xl text-gray-900 font-extrabold tracking-tight"
         >
           Restaurant Stack Solutions
         </h2>
         <div class="text-gray-500 space-y-6">
-          <div class="w-full h-full py-2 text-xl">
+          <div class="w-full h-full py-2 text-2xl">
             <ul class="">
               <li>Research and Planning</li>
               <li>Domain and SSL Setup</li>
@@ -139,22 +139,22 @@
             </ul>
           </div>
 
-          <p class="text-lg">
+          <p class="text-2xl">
             We setup everything required to get you started selling online and
             across google and partner platforms.
           </p>
 
           <div
-            class="grid grid-cols-2 gap-5 text-white block text-center inline-flex items-center justify-center"
+            class="grid grid-cols-2 gap-5 text-xl text-white block text-center inline-flex items-center justify-center"
           >
             <div
-              class="bg-black block text-center inline-flex items-center justify-center"
+              class="bg-black p-3 block text-center inline-flex items-center justify-center rounded-md"
             >
               <a href="https://buy.stripe.com/14k7uIbuMaeQbgk6ot">Started Now</a
               >
             </div>
             <div
-              class="bg-black block text-center inline-flex items-center justify-center"
+              class="bg-black p-3 block text-center inline-flex items-center justify-center rounded-md"
             >
               <a href="/">Return Home</a>
             </div>
