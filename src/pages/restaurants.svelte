@@ -102,7 +102,7 @@
               <li>Website Setup</li>
               <li>Website copy</li>
               <li>Website product upload</li>
-              <li>descriptions</li>
+              <li>Product descriptions</li>
               <!-- <li>Product editing and design</li> -->
               <!-- <li>SEO Optimized</li>
               <li>Menu Design</li>

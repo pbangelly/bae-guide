@@ -60,9 +60,7 @@
             alt="man in shopping cart"
           />
           <div class="absolute inset-0 bg-indigo-500 mix-blend-multiply" />
-          <div
-            class="absolute inset-0 bg-gradient-to-t from-indigo-600 via-indigo-600 opacity-90"
-          />
+          <div class="absolute inset-0" />
           <div class="relative px-8">
             <!-- <div>
                 <img class="h-12" src="https://tailwindui.com/img/logos/workcation.svg?color=white" alt="Workcation">
@@ -103,8 +101,8 @@
               <li>Website Designs</li>
               <li>Website setup</li>
               <li>Website copy</li>
-              <li>Website product descriptions</li>
-              <li>Product editing and design</li>
+              <li>Product descriptions</li>
+              <!-- <li>Product editing and design</li> -->
               <!-- <div class="text-indigo-500 uppercase hover:underline py-5">
                 See full stack
               </div> -->
