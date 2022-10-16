@@ -90,7 +90,7 @@
         <h2
           class="py-5 text-4xl md:text-7xl text-gray-900 font-extrabold tracking-tight"
         >
-          Restaurant Stack Solutions
+          Restaurant Stack Solutions.
         </h2>
         <div class="text-gray-500 space-y-6">
           <div class="w-full h-full py-2 text-2xl">

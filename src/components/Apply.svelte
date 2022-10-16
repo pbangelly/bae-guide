@@ -1,7 +1,9 @@
 <div class="bg-gray-100 pb-40">
   <div class="py-10 mb-10 text-center">
-    <p class="text-7xl py-10 font-extrabold">Application Process</p>
-    <p class="px-40 text-3xl ">
+    <p class="text-4xl md:text-7xl py-5 md:py-10 font-extrabold">
+      Application Process
+    </p>
+    <p class="px-5 md:px-40 text-xl md:text-3xl w-full">
       We offer an impressive selection of professional consulting services that
       are completely customizable for your business.
     </p>
