@@ -44,7 +44,10 @@
             setup everything required to get you started selling online across
             the globe.
           </p>
-          <form method="get" action="">
+          <form
+            method="get"
+            action="https://docs.google.com/forms/d/e/1FAIpQLSd-xzRAXVwAoe9dNyDhx6FJPp_s-hrejeMR5RoGDpKFETgP8w/viewform?usp=sf_link"
+          >
             <button
               class="block text-xl w-auto mt-10 py-4 px-5 rounded-md shadow bg-red-600 text-white font-medium hover:from-red-500 hover:to-red-800 focus:outline-none focus:ring-1 focus:ring-offset-2 focus:ring-red-400 focus:ring-offset-red-100"
               type="submit">Reach Out</button

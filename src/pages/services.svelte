@@ -146,7 +146,9 @@
             <div
               class="bg-black p-3 block text-center inline-flex items-center justify-center rounded-md"
             >
-              <a href="https://buy.stripe.com/00g6qEfL22Mo0BGbIP">Get Started</a
+              <a
+                href="https://docs.google.com/forms/d/e/1FAIpQLSfqSQ0aNeJ5-vkTyffDlip1aOe6w9x-YuxmL9FZO04rxBL07w/viewform?usp=sf_link"
+                >Get Started</a
               >
             </div>
             <div

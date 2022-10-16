@@ -39,7 +39,7 @@
       <div class="mt-8">
         <div class="inline-flex rounded-md shadow">
           <a
-            href=""
+            href="https://docs.google.com/forms/d/e/1FAIpQLSd-xzRAXVwAoe9dNyDhx6FJPp_s-hrejeMR5RoGDpKFETgP8w/viewform?usp=sf_link"
             class="bg-red-600 inline-flex items-center justify-center px-5 py-3 border border-transparent font-base rounded-md text-white bg-white hover:bg-white hover:text-black visited:text-red-500"
           >
             Reach Out
