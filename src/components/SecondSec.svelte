@@ -18,7 +18,7 @@
       >
         No Tech Experince? <br /> No problem.
       </p>
-      <p class="mt-5 max-w-prose mx-auto text-xl md:text-4xl text-gray-500">
+      <p class="mt-5 max-w-prose mx-auto text-xl md:text-3xl text-gray-500">
         We build business systems online from start to finish using powerful
         modern tech tools that aligns with your customers and business goals.
       </p>

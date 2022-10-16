@@ -18,8 +18,9 @@
       Everything you need to put your business on the web.
     </p>
     <p class="mt-5 max-w-prose mx-auto text-2xl md:text-3xl text-gray-500">
-      We offer an impressive selection of professional consulting services that
-      are completely customizable for your business.
+      If you have ever wondered how to develop your business online, this is the
+      place for you. Take a big step forward in growing your business. Apply
+      today to find out if I can help you.
     </p>
     <!-- <button class="bg-teal-500 text-white rounded-2xl p-3 m-5 capitalize">Get in touch with us today</button> -->
     <div class="mt-20">
