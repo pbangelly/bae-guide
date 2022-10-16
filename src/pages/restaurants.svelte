@@ -140,8 +140,7 @@
           </div>
 
           <p class="text-2xl">
-            We setup everything required to get you started selling online and
-            across google and partner platforms.
+            We setup everything required to get you started selling online.
           </p>
 
           <div
@@ -150,7 +149,7 @@
             <div
               class="bg-black p-3 block text-center inline-flex items-center justify-center rounded-md"
             >
-              <a href="https://buy.stripe.com/14k7uIbuMaeQbgk6ot">Started Now</a
+              <a href="https://buy.stripe.com/14k7uIbuMaeQbgk6ot">Get Started</a
               >
             </div>
             <div

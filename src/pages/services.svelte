@@ -137,8 +137,7 @@
           </div>
 
           <p class="text-2xl">
-            We setup everything required to get you started selling online and
-            across google and partner platforms. We will intergrate Analytics
+            We setup everything required to get you started selling online.
           </p>
 
           <div
@@ -147,8 +146,7 @@
             <div
               class="bg-black p-3 block text-center inline-flex items-center justify-center rounded-md"
             >
-              <a href="https://buy.stripe.com/00g6qEfL22Mo0BGbIP"
-                >Get Started Now</a
+              <a href="https://buy.stripe.com/00g6qEfL22Mo0BGbIP">Get Started</a
               >
             </div>
             <div
