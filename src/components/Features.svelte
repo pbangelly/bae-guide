@@ -17,7 +17,7 @@
     >
       Everything you need to put your business on the web.
     </p>
-    <p class="mt-5 max-w-prose mx-auto text-2xl md:text-3xl text-gray-500">
+    <p class="mt-5 max-w-prose mx-auto text-xl md:text-3xl text-gray-500">
       If you have ever wondered how to develop your business online, this is the
       place for you. Take a big step forward in growing your business. Apply
       today to find out if I can help you.
