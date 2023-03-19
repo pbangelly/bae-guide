@@ -1,19 +1,19 @@
 <script>
-  import Logo from "../../assets/images/logo.png";
+  // import Logo from "../../assets/images/bae-logo.png";
 </script>
 
-<footer class="bg-white" aria-labelledby="footerHeading">
+<footer class="bg-black" aria-labelledby="footerHeading">
   <h2 id="footerHeading" class="sr-only">Footer</h2>
   <div
     class="max-w-md mx-auto text-center pt-12 px-4 sm:max-w-7xl sm:px-6 lg:pt-16 lg:px-8"
   >
     <div class="grid grid-row">
       <div class="space-y-8 xl:col-span-1 justify-self-center">
-        <img
+        <!-- <img
           class="h-13"
           src={Logo}
-          alt="Hack The Ratio Business Systems Services"
-        />
+          alt="BAE Business Systems Services"
+        /> -->
         <!-- <p class="text-gray-300 text-xs">
           Making the world a better place through constructing powerful
           hierarchies.
@@ -72,8 +72,8 @@
       </div>
     </div>
     <div class="py-4">
-      <p class="text-xs text-gray-700 text-sm xl:text-center">
-        &copy; 2021 Hack The Ratio.org, All rights reserved.
+      <p class="text-xs  text-pink-light text-sm xl:text-center">
+        &copy; 2023 BAE Guide, All rights reserved.
       </p>
     </div>
   </div>

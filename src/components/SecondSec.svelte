@@ -1,5 +1,5 @@
 <script>
-  import MainImage from "../../assets/images/mockup.png";
+  import MainImage from "../../assets/images/bae-mockup-6.png";
 </script>
 
 <!-- Feature    section with screenshot -->
@@ -14,16 +14,23 @@
         Serverless
       </h2> -->
       <p
-        class="mt-2 font-extrabold text-gray-900 tracking-tight text-5xl md:text-7xl"
+        class="font-extrabold text-gray-900 tracking-tight text-3xl md:text-7xl"
       >
-        No Tech Experince? <br /> No problem.
+        Get to know the people <br /> behind the sales...
       </p>
       <p class="mt-5 max-w-prose mx-auto text-xl md:text-3xl text-gray-500">
-        We build business systems online from start to finish using powerful
-        modern tech tools that aligns with your customers and business goals.
+        There are 7.7 billion people in the world, with 3.5 billion of us
+        online. This means social media platforms are used by one-in-three
+        people in the world and more than two-thirds of all internet users.In
+        2019, an estimated 1.92 billion people purchased goods or services
+        online, and during the same year, e-retail sales surpassed 3.5 trillion
+        U.S. dollars worldwide.The goal of this workbook is to help you to
+        understand your business and customers better. The business that wins in
+        an evergreen market is the one that knows its customers the best. These
+        concepts are used by top marketers around the world.
       </p>
     </div>
-    <div class="mt-12 -mb-10 sm:-mb-24 lg:-mb-20">
+    <div class="mt-12 sm:-mb-24 lg:-mb-20">
       <img
         class="rounded-lg shadow-xl ring-1 ring-black ring-opacity-5 object-contain"
         src={MainImage}

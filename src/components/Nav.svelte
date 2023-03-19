@@ -1,6 +1,6 @@
 <script>
   // import BigLogo from "../../assets/logo-big.png";
-  import Logo from "../../assets/images/icons/htrlogo.png";
+  import Logo from "../../assets/images/bae-logo.png";
   import Link from "svelte-link";
 
   let showMenu = false;

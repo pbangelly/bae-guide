@@ -11,15 +11,11 @@
   import { metatags } from "@roxi/routify";
   import Banner from "../components/Banner.svelte";
   // import Nav from "../components/Nav.svelte";
-  // import Apply from "../components/Apply.svelte";
-  import Features from "../components/Features.svelte";
   import Support from "../components/Support.svelte";
   import SecondSec from "../components/SecondSec.svelte";
   import Footer from "../components/Footer.svelte";
 
-  import Apply from "../components/Apply.svelte";
-
-  metatags.title = "Hack The Ratio";
+  metatags.title = "BAE";
   metatags.description = "Building the road you need to get ahead...";
 </script>
 
@@ -29,8 +25,6 @@
     <Banner />
     <main>
       <SecondSec />
-      <Features />
-      <Apply />
       <Support />
     </main>
     <Footer />

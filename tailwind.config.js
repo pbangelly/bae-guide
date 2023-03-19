@@ -20,22 +20,26 @@ module.exports = {
   },
   theme: {
     extend: {
+      fontSize: {
+        sm: '0.8rem',
+        base: '1rem',
+        xl: '1.25rem',
+        '2xl': '1.563rem',
+        '3xl': '1.953rem',
+        '4xl': '2.441rem',
+        '5xl': '3.00rem',
+        '6xl': '5rem',
+        '7xl': '7rem',
+      },
       colors: {
-        teal: colors.teal,
-        cyan: colors.cyan,
         black: colors.black,
+        red: colors.red,
         transparent: 'transparent',
         current: 'currentColor',
-        yellow: {
-          light: 'rgb(250, 175, 60)',
-          DEFAULT: 'rgb(250, 175, 60)', 
-          dark: 'rgb(250, 175, 60)',
+        pink: {
+          light: 'rgb(224,189,184)',
+          dark: 'rgb(232,140,158)'
         },
-        // black: {
-        //   light: '#000',
-        //   DEFAULT: '#000',
-        //   dark: '#000',
-        // },
         maxWidth: {
           '1/4': '25%',
           '1/2': '50%',
